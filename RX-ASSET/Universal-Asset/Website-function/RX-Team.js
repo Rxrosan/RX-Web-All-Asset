@@ -14,7 +14,7 @@ document.addEventListener('DOMContentLoaded', function() {
             <div class="rx-team-slider">
                 <div class="rx-team-slide">
                     <div class="rx-team-member">
-                        <img src="https://cdn.jsdelivr.net/gh/Rxrosan/RX-Web-All-Asset@main/RX-ASSET/Img-Asset/RX-USER-IMAGE/A-1.png" alt="Admin - ROSAN KC">
+                        <img src="RX-ASSET/Img-Asset/RX-USER-IMAGE/A-1.png" alt="Admin - ROSAN KC">
                         <h3>ROSAN KC</h3>
                         <p class="rx-position">ADMIN</p>
                         <p>Banganga-10, Kapilvastu - NEPAL</p>
@@ -27,7 +27,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 
                 <div class="rx-team-slide">
                     <div class="rx-team-member">
-                        <img src="https://cdn.jsdelivr.net/gh/Rxrosan/RX-Web-All-Asset@main/RX-ASSET/Img-Asset/RX-USER-IMAGE/T-0.jpg" alt="#">
+                        <img src="RX-ASSET/Img-Asset/RX-USER-IMAGE/T-0.jpg" alt="#">
                         <h3>Next Is YOU ?</h3>
                         <p class="rx-position">Have a business mind or idea !</p>
                         <p>Contact us for your BUSINESS IDEA .</p>
