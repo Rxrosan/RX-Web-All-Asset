@@ -1,7 +1,7 @@
 (function () {
     "use strict";
 
-    const LOGO_URL = "RX-ASSETS/RX-IMAGE/RX-LOGO/L-7.gif";
+    const LOGO_URL = "RX-ASSET/Img-Asset/RX-LOGO/L-7.gif";
     const BG_COLOR = "#0a192f";
     const PRIMARY_TEXT = "RX STUDIO";
     const SECONDARY_TEXT = "ROSAN KC";

@@ -13,7 +13,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 text: "Hi, I'm Rosan Xettri, a passionate web designer dedicated to creating stunning and user-friendly websites. Let's build something amazing together!",
                 galleryImages: [
                     {
-                        url: "RX-ASSETS/RX-IMAGE/RX-BANNER/B-5.gif",
+                        url: "RX-ASSET/Img-Asset/RX-BANNER/B-5.gif",
                         title: "Banner Animation B-5",
                         desc: "High quality interactive GIF banner crafted for modern responsive web design templates."
                     }
